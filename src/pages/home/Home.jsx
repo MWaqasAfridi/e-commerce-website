@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroSection from '../../components/herosection/herosection'
+import HeroSection from '../../components/herosection/Herosection'
 import Filter from '../../components/filter/Filter'
 import ProductCard from '../../components/productCard/ProductCard'
 import Track from '../../components/track/Track'
